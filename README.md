@@ -99,4 +99,4 @@ Built by VEDANT SHARMA . I'm learning data analytics and this was one of my prac
 
 - LinkedIn: https://www.linkedin.com/in/vedant-sharma-491847410/
 - Feedback is welcome. If you spot something I could have done better, open an issue or just message me.
-- ![image alt] (https://github.com/vedantsharmaa-VS/COFFEE-SHOP-SALES/blob/main/Screenshot%202026-11-02%20233310.png)
+- ![image alt] (https://github.com/vedantsharmaa-VS/COFFEE-SHOP-SALES/blob/9becd3ed9a9b939ce4ca141bf0547b40dc2ce870/Screenshot%202026-11-02%20233310.png)
